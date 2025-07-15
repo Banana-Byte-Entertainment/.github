@@ -9,8 +9,8 @@
 ### 🐟 Fish 'n Chimps
 A fast-paced aquatic action game where chimps take to the water in a battle of bananas and brawn. Dive in, dodge, and dominate the deep!
 
-[🎮 Play it on Itch.io »](https://banana-byte-entertainment.itch.io/fish-n-chimps)  
-[📁 GitHub Repository »](https://github.com/chr-jo-su/monkey-swim)
+🎮 [Download it on itch.io](https://banana-byte-entertainment.itch.io/fish-n-chimps)  
+📁 [Find the source code here](https://github.com/chr-jo-su/monkey-swim)
 
 ---
 
