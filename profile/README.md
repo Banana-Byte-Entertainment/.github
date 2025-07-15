@@ -1,12 +1,48 @@
-## Hi there 👋
+# 🍌 BananaByte Entertainment
+
+**Welcome to BananaByte Entertainment** — an indie game (and potentially software) development group passionate about creating unique, entertaining, and memorable experiences. We're a small team of developers, united by creativity and a love for interesting games.
+
+---
+
+## 🎮 Our Recent Projects
+
+### 🐟 Fish 'n Chimps
+A fast-paced aquatic action game where chimps take to the water in a battle of bananas and brawn. Dive in, dodge, and dominate the deep!
+
+[🎮 Play it on Itch.io »](https://banana-byte-entertainment.itch.io/fish-n-chimps)  
+[📁 GitHub Repository »](https://github.com/chr-jo-su/monkey-swim)
+
+---
+
+## 🚀 Mission
+
+At BananaByte, we aim to:
+- Build quirky and engaging games.
+- Focus on fun, quirky design
+- Explore creative genres and experiment with different styles
 
 <!--
+---
 
-**Here are some ideas to get you started:**
+## 👥 The Team
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+We’re a team of four enthusiastic creators and developers:
+
+- **Sooraj** – Gameplay programming, system design, Unity wizardry  
+- **[Add other teammates here]** – (Roles, specialties, fun facts)
+
+We collaborate, jam, and push each other to create the best games we can. If you’d like to learn more about our work, feel free to check out our [projects](#our-projects) or drop us a message!
+
 -->
+---
+
+## 📫 Contact
+
+Have questions or feedback? Reach out to us via:
+
+- 📧 [Email](mailto:bananabyteentertainment@gmail.com)
+- 🌐 [itch.io](https://banana-byte-entertainment.itch.io/)
+
+---
+
+Extra bananas to everyone who’s tested our games, offered feedback, and supported us in this journey. 🍌💛
