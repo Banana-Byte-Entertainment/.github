@@ -1,6 +1,6 @@
-# 🍌 BananaByte Entertainment
+# 🍌 Banana Byte Entertainment
 
-**Welcome to BananaByte Entertainment** — an indie game (and potentially software) development group passionate about creating unique, entertaining, and memorable experiences. We're a small team of developers, united by creativity and a love for interesting games.
+**Welcome to Banana Byte Entertainment** — an indie game (and potentially software) development group passionate about creating unique, entertaining, and memorable experiences. We're a small team of developers, united by creativity and a love for interesting games.
 
 ---
 
@@ -16,7 +16,7 @@ A fast-paced aquatic action game where chimps take to the water in a battle of b
 
 ## 🚀 Mission
 
-At BananaByte, we aim to:
+At Banana Byte, we aim to:
 - Build quirky and engaging games.
 - Focus on fun, quirky design
 - Explore creative genres and experiment with different styles
